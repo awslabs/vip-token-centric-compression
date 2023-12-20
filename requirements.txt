@@ -1,4 +1,4 @@
-transformers==4.20
+transformers==4.36.0
 datasets==2.5.0
 tqdm==4.64.0
 pytorch_lightning==1.9.4
