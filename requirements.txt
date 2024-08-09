@@ -1,6 +1,6 @@
 transformers==4.36.0
 datasets==2.5.0
-tqdm==4.64.0
+tqdm==4.66.3
 pytorch_lightning==1.9.4
 ninja==1.10.2
 spacy==3.5.1
